@@ -1,6 +1,3 @@
-﻿// ===========================
-// EJERCICIO 1: Barajar y repartir cartas
-// ===========================
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +20,9 @@ namespace Ejercicio_estructura_de_datos_estaticas
             //Ejercicio3.Ejecutar();
         }
     }
+﻿// ===========================
+// EJERCICIO 1: Barajar y repartir cartas
+// ===========================
     class Carta
     {
         public string Palo { get; set; }
